@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "referentielApplication",
+    "packageName": "nc.opt.refapp",
+    "packageFolder": "nc/opt/refapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NDQ0ZWRmZWJlNzA2YmE3NGNhNDNkYjliMGIzMmU4ZjQyNGNjNTIyYzUzNjAwMjNjZmVmMzQwOGQwYzY3YzIwMWE5Y2RiZTU0NzhmNTRhODQ1ZGU3ODAxMjA1MDllY2UyYTA0MzBjZWIzODNmOTAwNjE0NmIzMGJmMTI0ODgwMzQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Stratego300",
+  "repository-name": "refapp2"
+}
